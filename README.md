@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:popazdeni@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](popazdeni@gmail.com) 
 [![gamejolt](https://gamejolt.com/@FanAlex)](mailto:https://gamejolt.com/@FanAlex)
 
 # 💻 Tech Stack:
