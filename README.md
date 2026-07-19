@@ -1,5 +1,5 @@
 # 💫 About Me:
-Являюсь русским начинающим разработчиком Python и Game Maker.<br>Увлекаюсь рисованием, прохождением игр и ими разработкой.<br>Проекты, над которыми я работаю:<br>Super Mario World in Python.<br>https://github.com/AlexFan2025/Super-Mario-World-in-Python<br>
+Являюсь русским начинающим разработчиком Python.<br>Увлекаюсь рисованием, прохождением игр и ими разработкой.<br>Проекты, над которыми я работаю:<br>Super Mario World in Python.<br>https://github.com/AlexFan2025/Super-Mario-World-in-Python<br>
 
 
 ## 🌐 Socials:
